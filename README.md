@@ -4,15 +4,15 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-💻 I’m a Computer Engineering student currently halfway through my degree, passionate about software development and technology. I enjoy learning new things, building projects, solving problems, and creating useful, innovative, and creative solutions.
+💻 I am an Information Systems Development student; I am currently halfway through my degree and am passionate about software development and technology. I enjoy learning new things, working on projects, solving problems, and creating useful, innovative, and creative solutions.
 
-🌱 I’m currently learning **Angular** and **Spring Boot**, while continuing to improve my knowledge of both front-end and back-end development.
+🌱  I learn something new every day while continuing to hone my skills in both front-end and back-end development.
 
-👯 I’m looking forward to collaborating on **open-source projects**, learning from other developers, and contributing to interesting projects.
+👯 I remain curious and enthusiastic about learning new technologies and taking on new challenges.
 
 💡 I’m always curious and excited to learn new technologies and take on new challenges.
 
-🎮 Outside of tech, I enjoy playing videogames, 🎵 listening to music, 📖 reading science books, and exploring new ideas.
+🎮 Outside the tech world, I enjoy playing video games, 🎵 listening to music, 📖  reading psychology books, and exploring new ideas.
 - 📫 Reach out to me at: <a href="abrahan.canto@gmail.com">abrahan.canto@gmail.com</a>
 
 ## My Skills Include
